@@ -1,0 +1,40 @@
+body {
+    background-color: red;
+    
+}
+p {
+    text-indent: 60px;
+    text-align: justify;
+    font-size: 80%;
+    color: pink;
+    font-style: italic;
+}
+h1 {
+    font-size: 3,5cm;
+}
+h2 {
+    font-size: 115%;
+}
+
+.index {
+    font-family: Arial;
+}
+
+.socek {
+    font-family: Courier New;
+}
+
+.fyzicka {
+    font-family: Verdana;
+}
+
+img {
+    height: 65%; 
+    border: dotted;
+}
+ol {
+
+    color: blue;
+    font-size: 80%;
+    font-style: italic;
+}
